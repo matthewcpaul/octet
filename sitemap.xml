@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://matthewcpaul.github.io/jekyll-gulp/jekyll-gulp/collection/example-collection-item/</loc>
-<lastmod>2017-11-13T16:48:11-05:00</lastmod>
+<loc>https://github.ibm.com/mcpaul/duo-product-type.git/duo-product-type/collection/example-collection-item/</loc>
+<lastmod>2017-11-13T17:01:19-05:00</lastmod>
 </url>
 <url>
-<loc>https://matthewcpaul.github.io/jekyll-gulp/jekyll-gulp/2016/07/06/example-post/</loc>
+<loc>https://github.ibm.com/mcpaul/duo-product-type.git/duo-product-type/2016/07/06/example-post/</loc>
 <lastmod>2016-07-06T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://matthewcpaul.github.io/jekyll-gulp/jekyll-gulp/</loc>
+<loc>https://github.ibm.com/mcpaul/duo-product-type.git/duo-product-type/</loc>
 </url>
 </urlset>

@@ -1,1 +1,1 @@
-Sitemap: https://matthewcpaul.github.io/jekyll-gulp/jekyll-gulp/sitemap.xml
+Sitemap: https://github.ibm.com/mcpaul/duo-product-type.git/duo-product-type/sitemap.xml
