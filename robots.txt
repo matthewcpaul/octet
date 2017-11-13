@@ -1,1 +1,1 @@
-Sitemap: https://github.ibm.com/mcpaul/duo-product-type.git/duo-product-type/sitemap.xml
+Sitemap: https://github.ibm.com/mcpaul/duo-product-type.git/mcpaul/duo-product-type/sitemap.xml
