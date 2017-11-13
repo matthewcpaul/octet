@@ -1,8 +1,8 @@
 # Site Config
 name: "IBM Typography"
 description: More sensible software typography
-baseurl: "/jekyll-gulp"
-url: https://matthewcpaul.github.io/jekyll-gulp
+baseurl: "/duo-product-type"
+url: git@github.ibm.com:mcpaul/duo-product-type.git
 
 # Build Settings
 markdown: kramdown
