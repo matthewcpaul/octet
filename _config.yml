@@ -2,7 +2,7 @@
 name: "IBM Typography"
 description: More sensible software typography
 baseurl: "/duo-product-type"
-url: git@github.ibm.com:mcpaul/duo-product-type.git
+url: https://github.ibm.com/mcpaul/duo-product-type.git
 
 # Build Settings
 markdown: kramdown
