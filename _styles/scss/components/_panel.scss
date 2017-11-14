@@ -38,6 +38,102 @@
   &--disabled {
     color: $gray-light;
   }
+
+  &--3::before {
+    content: "18px/28px • 1.125rem/1.75rem";
+  }
+
+  @include breakpoint(640px) {
+    &--3::before {
+      content: "20px/32px • 1.25rem/2rem";
+    }
+  }
+
+  @include breakpoint(1600px) {
+    &--3::before {
+      content: "24px/36px • 1.5rem/2.25rem";
+    }
+  }
+
+  &--2::before {
+    content: "22px/32px • 1.125rem/2rem";
+  }
+
+  @include breakpoint(640px) {
+    &--2::before {
+      content: "28px/40px • 1.25rem/2.5rem";
+    }
+  }
+
+  @include breakpoint(1600px) {
+    &--2::before {
+      content: "40px/48px • 2.5rem/3rem";
+    }
+  }
+
+  &--1::before {
+    content: "28px/40px • 1.25rem/2.5rem";
+  }
+
+  @include breakpoint(640px) {
+    &--1::before {
+      content: "40px/48px • 2.5rem/3rem";
+    }
+  }
+
+  @include breakpoint(1600px) {
+    &--1::before {
+      content: "64px/72px • 4rem/4.5rem";
+    }
+  }
+
+  &--lg::before {
+    content: "36px/48px • 2.25rem/3rem";
+  }
+
+  @include breakpoint(640px) {
+    &--lg::before {
+      content: "56px/64px • 3.5rem/4rem";
+    }
+  }
+
+  @include breakpoint(1600px) {
+    &--lg::before {
+      content: "96px/96px • 6rem/6rem";
+    }
+  }
+
+  &--xl::before {
+    content: "46px/56px • 2.875rem/3.5rem";
+  }
+
+  @include breakpoint(640px) {
+    &--xl::before {
+      content: "76px/80px • 4.75/5rem";
+    }
+  }
+
+  @include breakpoint(1600px) {
+    &--xl::before {
+      content: "136px/128px • 8.5rem/8rem";
+    }
+  }
+
+  &--xxl::before {
+    content: "58px/64px • 3.625rem/4rem";
+  }
+
+  @include breakpoint(640px) {
+    &--xxl::before {
+      content: "100px/104px • 6.25/6.5rem";
+    }
+  }
+
+  @include breakpoint(1600px) {
+    &--xxl::before {
+      content: "184px/160px • 11.5rem/10rem";
+    }
+  }
 }
 
 .c-unit {

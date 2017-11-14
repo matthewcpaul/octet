@@ -1,7 +1,7 @@
 # Site Config
 name: "IBM Typography"
-description: More sensible software typography
-baseurl: "/duo-product-type"
+description: More sensible software typography for IBM
+baseurl: "/mcpaul/duo-product-type"
 url: https://github.ibm.com/mcpaul/duo-product-type.git
 
 # Build Settings
