@@ -68,7 +68,7 @@ This IBM type scale is built on a mathematical progression that is arithmetic in
     <span class="f-5 c-type-label c-type-label--xl u-mb-xxs"></span>
     <h1 class="f f-xl u-mb-sm">Plex XL</h1>
 
-    <span class="f-5 c-type-label c-type-label--xl u-mb-xxs"></span>
+    <span class="f-5 c-type-label c-type-label--xxl u-mb-xxs"></span>
     <h1 class="f f-xxl u-mb-sm">Plex XXL</h1>
   </div>
 </div>
